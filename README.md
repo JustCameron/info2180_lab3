@@ -1,2 +1,3 @@
 # info2180_lab3
-Third lab, pain
+
+This is Lab 3 for Cameron Meeks
