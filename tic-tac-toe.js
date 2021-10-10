@@ -1,4 +1,5 @@
 window.addEventListener("load", (event)=> {
+    //Player points
     let p1_points = 0;
     let p2_points = 0;
     //let fboard = ["","","","","","","","",""];
